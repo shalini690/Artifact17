@@ -1,0 +1,15 @@
+{
+  "name": "artifact17",
+  "version": "1.0.0",
+  "description": "Minimal Node.js tutorial web server built on Express.js, exposing GET / (\"Hello world\") and GET /good-evening (\"Good evening\").",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
